@@ -2,7 +2,7 @@
 
 I'm Matthew, and I'm currently focusing on full-stack web development, in addition to data science and C++ (_soon_)
 
-Feel free to contact me on Telegram for web development related inquiries: https://t.me/asleepatthewheel
+I have past experience with freelance web development - feel free to contact me on telegram for any related inquiries / project proposals!: https://t.me/asleepatthewheel
 
 <!--
 **realemeralds/realemeralds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
