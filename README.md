@@ -4,6 +4,8 @@ I'm Matthew, and I'm currently focusing on full-stack web development, in additi
 
 I have past experience with freelance web development - feel free to contact me on telegram for any related inquiries / project proposals! https://t.me/asleepatthewheel
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=realemeralds)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **realemeralds/realemeralds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
