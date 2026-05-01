@@ -1,8 +1,6 @@
 ## Hi there! 👋
 
-I'm Matthew, and I'm currently focusing on full-stack web development, in addition to data science and C++ (_soon_)
-
-I have past experience with freelance web development - feel free to contact me on telegram for any related inquiries / project proposals! https://t.me/asleepatthewheel
+I'm Matthew, and I'm currently focusing on competitive programming during mandatory military service (womp womp...).
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=realemeralds&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
